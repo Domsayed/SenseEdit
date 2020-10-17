@@ -1,2 +1,3 @@
-# SenseEdit
-Graphic editor for Raspberry Pi Sense HAT
+`# SenseEdit
+Graphic editor for Raspberry Pi Sense HA
+print("hello world")
